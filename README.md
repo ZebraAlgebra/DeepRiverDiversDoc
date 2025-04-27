@@ -1,7 +1,7 @@
 # Documentation of DeepRiverDivers
 
 To view the docs locally,
-in this directory, run:
+in this directory, git clone and run:
 
 ```
 hugo server --minify
