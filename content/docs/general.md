@@ -33,7 +33,7 @@ as well as computed game-theoretic optimal (GTO) values.
 ## Related Links
 
 * [Github Repo](https://github.com/yindrew/DeepRiverDivers)
-* [This site](TBD)
+* [This site](https://zebraalgebra.github.io/DeepRiverDiversDoc/)
 * [Final Project Report (Overleaf)](https://www.overleaf.com/read/bfynsbgpqqhy#5003fe)
 
 ## High-level Model Architecture
