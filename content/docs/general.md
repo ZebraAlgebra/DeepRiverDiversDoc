@@ -38,4 +38,4 @@ as well as computed game-theoretic optimal (GTO) values.
 
 ## High-level Model Architecture
 
-![Model Architecture](/DeepRiverDiversDoc/images/model_drawio.png)
+![Model Architecture](/images/model_drawio.png)

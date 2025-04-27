@@ -1,4 +1,4 @@
-baseURL = 'https://zebraalgebra.github.io/DeepRiverDiversDoc/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'DeepRiverDivers Doc'
 theme = 'hugo-book'
@@ -11,3 +11,7 @@ theme = 'hugo-book'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
