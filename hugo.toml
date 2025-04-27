@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'DeepRiverDivers Doc'
+theme = 'hugo-book'
+
+[params]
+  BookTheme = 'light'
+  BookSection = 'docs'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
