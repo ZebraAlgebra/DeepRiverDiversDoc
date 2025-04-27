@@ -38,4 +38,4 @@ as well as computed game-theoretic optimal (GTO) values.
 
 ## High-level Model Architecture
 
-![Model Architecture](/images/model_drawio.png)
+![Model Architecture](https://zebraalgebra.github.io/DeepRiverDiversDoc/images/model_drawio.png) 
