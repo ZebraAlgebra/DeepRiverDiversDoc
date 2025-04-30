@@ -50,12 +50,12 @@ source .venv/activate.fish # depends on your shell and OS
 {{< tabs "install" >}}
 {{% tab "Native pip" %}}
 ```bash
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 {{% /tab %}}
 {{% tab "Using uv" %}}
 ```bash
-uv pip install -r requirement.txt
+uv pip install -r requirements.txt
 ```
 {{% /tab %}}
 {{< /tabs >}}
